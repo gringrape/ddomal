@@ -1,5 +1,5 @@
 # 또 다시 말해요
-[Build Status](https://github.com/gringrape/ddomal/workflows/CI/badge.svg?branch=main)
+![Build Status](https://github.com/gringrape/ddomal/workflows/CI/badge.svg?branch=main)
 
 ## Install dependencies
 
